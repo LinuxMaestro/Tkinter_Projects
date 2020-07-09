@@ -1,1 +1,7 @@
 # Tkinter_Projects
+1. "HELLO WORLD" PROMPT
+2. TEXT INPUT
+3. CHECK
+4. IF RIGHT, SUCCESSFULL
+5. IT NOT, 3 TIMES, EXIT with password changed
+6. COUNT UP FAILURES
